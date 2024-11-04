@@ -1,6 +1,3 @@
-import random
-
-
 class House:
     def __init__(self, name, number_of_floors):
         self.name = name
